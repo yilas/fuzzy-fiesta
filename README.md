@@ -56,3 +56,7 @@ Click on one of the URL. Then :
 The secret is now seen as allowed.
 
 ![Secret allowed](./2023-07-20_15-53.png)
+
+An email is sent in that case... then a redirection is done to GitGuardien (paid solution)
+
+![Mail](./2023-07-20_16-54.png)
