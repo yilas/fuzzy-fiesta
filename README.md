@@ -52,3 +52,5 @@ error: failed to push some refs to 'https://github.com/yilas/fuzzy-fiesta.git'
 Click on one of the URL.
 
 ![Allow me to push this instance of Amazon AWS Access Key ID to yilas/fuzzy-fiesta](./2023-07-20_15-48.png)
+
+![Secret allowed](./2023-07-20_15-53.png)
