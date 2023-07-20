@@ -49,8 +49,10 @@ error: failed to push some refs to 'https://github.com/yilas/fuzzy-fiesta.git'
 
 ## Allow me to push this instance...
 
-Click on one of the URL.
+Click on one of the URL. Then :
 
 ![Allow me to push this instance of Amazon AWS Access Key ID to yilas/fuzzy-fiesta](./2023-07-20_15-48.png)
+
+The secret is now seen as allowed.
 
 ![Secret allowed](./2023-07-20_15-53.png)
